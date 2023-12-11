@@ -1,0 +1,14 @@
+C:\Proyectos\SocialNetwork\SocialNetwork\BusinessEntities\bin\Debug\net6.0\BusinessEntities.deps.json
+C:\Proyectos\SocialNetwork\SocialNetwork\BusinessEntities\bin\Debug\net6.0\BusinessEntities.dll
+C:\Proyectos\SocialNetwork\SocialNetwork\BusinessEntities\bin\Debug\net6.0\ref\BusinessEntities.dll
+C:\Proyectos\SocialNetwork\SocialNetwork\BusinessEntities\bin\Debug\net6.0\BusinessEntities.pdb
+C:\Proyectos\SocialNetwork\SocialNetwork\BusinessEntities\obj\Debug\net6.0\BusinessEntities.csproj.AssemblyReference.cache
+C:\Proyectos\SocialNetwork\SocialNetwork\BusinessEntities\obj\Debug\net6.0\BusinessEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\SocialNetwork\SocialNetwork\BusinessEntities\obj\Debug\net6.0\BusinessEntities.AssemblyInfoInputs.cache
+C:\Proyectos\SocialNetwork\SocialNetwork\BusinessEntities\obj\Debug\net6.0\BusinessEntities.AssemblyInfo.cs
+C:\Proyectos\SocialNetwork\SocialNetwork\BusinessEntities\obj\Debug\net6.0\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Proyectos\SocialNetwork\SocialNetwork\BusinessEntities\obj\Debug\net6.0\BusinessEntities.dll
+C:\Proyectos\SocialNetwork\SocialNetwork\BusinessEntities\obj\Debug\net6.0\ref\BusinessEntities.dll
+C:\Proyectos\SocialNetwork\SocialNetwork\BusinessEntities\obj\Debug\net6.0\BusinessEntities.pdb
+C:\Proyectos\SocialNetwork\SocialNetwork\BusinessEntities\bin\Debug\net6.0\BusinessEntities.runtimeconfig.json
+C:\Proyectos\SocialNetwork\SocialNetwork\BusinessEntities\obj\Debug\net6.0\BusinessEntities.genruntimeconfig.cache

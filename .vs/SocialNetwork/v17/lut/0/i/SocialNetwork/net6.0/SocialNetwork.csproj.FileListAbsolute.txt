@@ -1,0 +1,16 @@
+C:\Proyectos\SocialNetwork\SocialNetwork\.vs\SocialNetwork\v17\lut\0\b\SocialNetwork\bin\Debug\net6.0\appsettings.Development.json
+C:\Proyectos\SocialNetwork\SocialNetwork\.vs\SocialNetwork\v17\lut\0\b\SocialNetwork\bin\Debug\net6.0\appsettings.json
+C:\Proyectos\SocialNetwork\SocialNetwork\.vs\SocialNetwork\v17\lut\0\b\SocialNetwork\bin\Debug\net6.0\SocialNetwork.exe
+C:\Proyectos\SocialNetwork\SocialNetwork\.vs\SocialNetwork\v17\lut\0\b\SocialNetwork\bin\Debug\net6.0\SocialNetwork.deps.json
+C:\Proyectos\SocialNetwork\SocialNetwork\.vs\SocialNetwork\v17\lut\0\b\SocialNetwork\bin\Debug\net6.0\SocialNetwork.runtimeconfig.json
+C:\Proyectos\SocialNetwork\SocialNetwork\.vs\SocialNetwork\v17\lut\0\b\SocialNetwork\bin\Debug\net6.0\SocialNetwork.dll
+C:\Proyectos\SocialNetwork\SocialNetwork\.vs\SocialNetwork\v17\lut\0\b\SocialNetwork\bin\Debug\net6.0\ref\SocialNetwork.dll
+C:\Proyectos\SocialNetwork\SocialNetwork\.vs\SocialNetwork\v17\lut\0\i\SocialNetwork\net6.0\SocialNetwork.csproj.AssemblyReference.cache
+C:\Proyectos\SocialNetwork\SocialNetwork\.vs\SocialNetwork\v17\lut\0\i\SocialNetwork\net6.0\SocialNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\SocialNetwork\SocialNetwork\.vs\SocialNetwork\v17\lut\0\i\SocialNetwork\net6.0\SocialNetwork.AssemblyInfoInputs.cache
+C:\Proyectos\SocialNetwork\SocialNetwork\.vs\SocialNetwork\v17\lut\0\i\SocialNetwork\net6.0\SocialNetwork.AssemblyInfo.cs
+C:\Proyectos\SocialNetwork\SocialNetwork\.vs\SocialNetwork\v17\lut\0\i\SocialNetwork\net6.0\scopedcss\bundle\SocialNetwork.styles.css
+C:\Proyectos\SocialNetwork\SocialNetwork\.vs\SocialNetwork\v17\lut\0\i\SocialNetwork\net6.0\SocialNetwork.csproj.CopyComplete
+C:\Proyectos\SocialNetwork\SocialNetwork\.vs\SocialNetwork\v17\lut\0\i\SocialNetwork\net6.0\SocialNetwork.dll
+C:\Proyectos\SocialNetwork\SocialNetwork\.vs\SocialNetwork\v17\lut\0\i\SocialNetwork\net6.0\ref\SocialNetwork.dll
+C:\Proyectos\SocialNetwork\SocialNetwork\.vs\SocialNetwork\v17\lut\0\i\SocialNetwork\net6.0\SocialNetwork.genruntimeconfig.cache
